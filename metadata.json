@@ -1,0 +1,6 @@
+{
+  "name": "Aria AI Platform",
+  "description": "Industry-grade AI chatbot platform with streaming responses, multi-model engine, RAG knowledge retrieval, voice I/O, multi-language localization, subscription licensing, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
